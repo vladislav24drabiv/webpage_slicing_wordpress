@@ -1,0 +1,16 @@
+footer{
+	background-color: grey;
+	height: 20rem;
+}
+.border{
+border: 	1px solid red!important;
+}
+.dib{
+	display: inline-block;
+}
+.foot_mar_left{
+	margin-left: 3rem;
+}
+.fot_connection{
+border: 	1px solid red!important;
+}
