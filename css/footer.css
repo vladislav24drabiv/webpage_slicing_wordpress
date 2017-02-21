@@ -1,9 +1,9 @@
 footer{
-	background-color: grey;
+	/*background-color: grey;*/
 	height: 20rem;
 }
 .border{
-border: 	1px solid red!important;
+border: 1px solid blue!important;
 }
 .dib{
 	display: inline-block;
@@ -13,4 +13,16 @@ border: 	1px solid red!important;
 }
 .fot_connection{
 border: 	1px solid red!important;
+}
+.foot_number{
+	color: black;
+	font-size: 1em;
+
+}
+.foot_number:hover{
+	/*color: black;*/
+}
+.foot_name{
+	font-size: 1.2em;
+	font-weight: bold;
 }
