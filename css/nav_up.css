@@ -5,8 +5,11 @@
 	margin-left: 15px;
 }
 .language{
-	float: right;
+	/*float: right;*/
 	margin: -20px 15px 0 0;
+}
+.face_icon{
+	margin-top: -2.36rem;
 }
 .mar_top_15{
 	margin-top: 15px;
@@ -34,5 +37,9 @@ a{
 	border: none!important;
 }
 .vis_foto{
+	margin-top: -1.2rem;
 	display: none;
+}
+.center-block{
+	margin-top: -2.2rem;
 }
