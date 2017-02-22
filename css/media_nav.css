@@ -1,22 +1,36 @@
+@media screen and (max-width: 1299px){
+ .margin_l_80{
+  margin-left: 5.2rem!important;
+ }
+}
 @media screen and (max-width: 1150px) {
   .margin_l_80 {
-	margin-left: 8rem!important;
+	margin-left: 5rem!important;
   }
   .navbar{
   	font-size: 1.15em;
   }
 }
-@media screen and (max-width: 1008px) {
+@media screen and (max-width: 1020px) {
   .margin_l_80{
-	margin-left: 6.5rem!important;
+	margin-left: 4rem!important;
   }
   @media screen and (max-width: 990px) {
   .margin_l_80{
-  margin-left: 5.5rem!important;
+  margin-left: 2.5rem!important;
   }
-  @media screen and (max-width: 790px) {
+  @media screen and (max-width: 905px) {
   .margin_l_80{
-  margin-left: 4.6rem!important;
+  margin-left: 1.3rem!important;
+  }
+
+@media screen and (max-width: 875px) {
+  .margin_l_80{
+  margin-left: 0.6rem!important;
+  }
+  @media screen and (max-width: 800px) {
+  .margin_l_80{
+  margin-left: 0rem!important;
   }
 
    @media screen and (max-width: 776px) {
