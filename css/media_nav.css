@@ -1,11 +1,11 @@
 @media screen and (max-width: 1299px){
  .margin_l_80{
-  margin-left: 5.2rem!important;
+  margin-left: 2.0rem!important;
  }
 }
 @media screen and (max-width: 1150px) {
   .margin_l_80 {
-	margin-left: 5rem!important;
+	margin-left: 1.5rem!important;
   }
   .navbar{
   	font-size: 1.15em;
@@ -13,24 +13,24 @@
 }
 @media screen and (max-width: 1020px) {
   .margin_l_80{
-	margin-left: 4rem!important;
+	margin-left: 0.8rem!important;
   }
   @media screen and (max-width: 990px) {
   .margin_l_80{
-  margin-left: 2.5rem!important;
+  margin-left: 0.6rem!important;
   }
   @media screen and (max-width: 905px) {
   .margin_l_80{
-  margin-left: 1.3rem!important;
+  margin-left: 0.1rem!important;
   }
 
 @media screen and (max-width: 875px) {
   .margin_l_80{
-  margin-left: 0.6rem!important;
+  margin-left: 0.1rem!important;
   }
   @media screen and (max-width: 800px) {
   .margin_l_80{
-  margin-left: 0rem!important;
+  margin-left: -0.8rem!important;
   }
 
    @media screen and (max-width: 776px) {

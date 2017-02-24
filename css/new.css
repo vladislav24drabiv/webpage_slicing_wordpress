@@ -1,6 +1,8 @@
 .thumbnail{
-	margin: -13px!important;
+	/*margin: -13px!important;*/
+	margin-right: 1px!important;
 }
+
   @media screen and (max-width: 790px) {
   .new_widht{
   	/*width: 6rem!important;*/
@@ -43,4 +45,27 @@ padding: 0.5em;
  	.news_f_z{
  		font-size: 1.5em!important;
  	}
+ }
+  @media screen and (max-width: 350px){
+ 	.new_widht{
+ 		width: 15rem!important;
+ 	}
+ }
+   @media screen and (max-width: 185px){
+ 	.new_widht{
+ 		width: 11rem!important;
+ 	}
+ }
+ /*for hover img big*/
+ .gradual_increase{
+ -moz-transition: all 1s ease-out;
+ -o-transition: all 1s ease-out;
+ -webkit-transition: all 1s ease-out;
+ }
+
+ 
+.gradual_increase:hover{
+ -webkit-transform: scale(1.1);
+ -moz-transform: scale(1.1);
+ -o-transform: scale(1.1);
  }

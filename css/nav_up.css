@@ -17,9 +17,7 @@
 .margin_l_80{
 	margin-left: 10rem;
 }
-.mar_left_10{
-	/*margin-left: 7.5rem;*/
-}
+
 .navbar{
 	background-color: white!important;
 	/*border: none;*/
@@ -42,4 +40,7 @@ a{
 }
 .center-block{
 	margin-top: -2.2rem;
+}
+.dropdown-toggle:hover{
+	color: blue!important;
 }

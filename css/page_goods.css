@@ -1,0 +1,30 @@
+.foto_opis img{
+	width: 200px!important;
+	height: 400px;
+}*/
+.opis_goods_f_z{
+	font-size: 1.5em;
+	/*float: right!important;*/
+}
+.foto_goods {
+
+	float: left;
+}
+@media screen and (max-width: 1000px){
+.foto_goods {
+
+	float: none;
+  }
+}
+.order{
+	/*width: 10rem!important;*/
+	/*background-color: grey;*/
+}
+
+	
+@media screen and (max-width: 992px){
+.page_m_l {
+
+	float: right!important;
+  }
+}
